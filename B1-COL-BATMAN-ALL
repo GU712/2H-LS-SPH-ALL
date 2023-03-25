@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1H-SPH-LS-MTX/main/B1-COL-BATMAN-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B-SRS-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,51 +12,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]BATMAN - FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1H-SPH-LS-MTX/main/B1A-FLMS-BATMAN-MTX</externallink>
-<thumbnail>https://i.ibb.co/7tyC3Mm/BATMAN-COL-ICON-FLMS.png</thumbnail>
-<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
-<info>Assista filmes da coleção Batman. 
+<name>[COLOR white][B]Batman Antigo P.B. (1943) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B2-SRS-Batman.1943-ALL</externallink>
+<thumbnail>https://4.bp.blogspot.com/-EZPgSrY2wBs/Uhm-e8mnPmI/AAAAAAAAN_o/lrhm5fz-gIc/s1600/esse+gde.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-2FkEVkrDBLY/Uhnj0jjqJDI/AAAAAAAAN_4/hEZhNZrydkg/s1600/Lewis+Wilson+-+Batman.jpg</fanart>
+<info>Assista a série Batman Antigo P.B. 
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]03 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1966 a 2022[/B][/COLOR]</info>
+[COLOR orange][B]01 TEMPS - 15 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1943[/B][/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]BATMAN - SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1H-SPH-LS-MTX/main/B1B-SRS-BATMAN-MTX</externallink>
-<thumbnail>https://i.ibb.co/jVM7dhw/BATMAN-COL-ICON-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
-<info>Assista séries da coleção Batman
+<name>[COLOR white][B]Batman (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B1-SRS-Batman.1966-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRQAhrLO8tBNdwYPh4UJ5zV8lbP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gpJZiTvklr5JN0mzpQwl99peQD7.jpg</fanart>
+<info>Assista a série Batman. 
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]03 SÉRIES[/B][/COLOR]
+[COLOR orange][B]03 TEMPS - 120  EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1966 a 1967[/B][/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]BATMAN - DESENHOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1H-SPH-LS-MTX/main/B1C-DSNHS-BATMAN-MTX</externallink>
-<thumbnail>https://i.ibb.co/TWtnPyM/BATMAN-COL-ICON-DSHS.png</thumbnail>
-<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
-<info>Assista desenhos da coleção Batman
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]03 SÉRIES[/B][/COLOR]
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B-LS-COL-CRDR-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B-SRS-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -65,8 +50,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO GÊNERO SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/1-LS-SEL-SPH-ALL</externallink>
+<name>[COLOR white][B]VOLTAR AO MENU DA COLEÇÃO BATMAN[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1-COL-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -107,3 +92,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
