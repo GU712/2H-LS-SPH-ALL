@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B6-COL-H.ARANHA-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1-COL-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -14,11 +14,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]HOMEM-ARANHA - FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1A-FLMS-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/qyS2YL0/H-ARANHA-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/ystsLWQ/H-ARANHA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/7tyC3Mm/BATMAN-COL-ICON-FLMS.png</thumbnail>
+<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
 <info>Assista filmes da coleção Homem-Aranha. 
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]01 FILMES[/B][/COLOR]
+[COLOR orange][B]03 FILMES[/B][/COLOR]
 [COLOR orange][B]ANOS - 1966 a 2022[/B][/COLOR]</info>
 </channel>
 </channels>
@@ -29,11 +29,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]HOMEM-ARANHA - SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1B-SRS-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/6g1222H/H-ARANHA-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/ystsLWQ/H-ARANHA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/jVM7dhw/BATMAN-COL-ICON-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
 <info>Assista séries da coleção Homem-Aranha.
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]02 SÉRIES[/B][/COLOR]
+[COLOR orange][B]03 SÉRIES[/B][/COLOR]
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -43,11 +43,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]HOMEM-ARANHA - DESENHOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1C-DSNHS-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/z2rJGCB/H-ARANHA-DES.png</thumbnail>
-<fanart>https://i.ibb.co/ystsLWQ/H-ARANHA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/TWtnPyM/BATMAN-COL-ICON-DSHS.png</thumbnail>
+<fanart>https://i.ibb.co/dt2tKwP/BATMAN-FAN.png</fanart>
 <info>Assista desenhos da coleção Homem-Aranha.
 [COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]02 SÉRIES[/B][/COLOR]
+[COLOR orange][B]03 SÉRIES[/B][/COLOR]
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B6-COL-H.ARANHA-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B1-COL-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -110,7 +110,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -118,3 +118,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
