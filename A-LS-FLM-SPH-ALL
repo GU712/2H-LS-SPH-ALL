@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Aquaman (2018)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=llJsEaqhNRk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Aquaman[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=llJsEaqhNRk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Aquaman[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5d54259bf67b4337638c917813b9fc0ff81d53d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Aquaman - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de62dbe9dc114057bca0115d6911c196c5b503a4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Aquaman - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Aquaman.2019.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Aquaman - FHD DUB[/B][/COLOR]</link>				
@@ -52,7 +52,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Capitã Marvel (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=av2jODMFu6M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Capita Marvel[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=av2jODMFu6M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Capita Marvel[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98ad12a684aef6af5b8cfec1b93d4f35beaff35a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Capita Marvel - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2e7cc1b270f5931a4405b6aad1401bb33ba391$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Capita Marvel - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Capita.Marvel.2019.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Capita Marvel - FHD DUB[/B][/COLOR]</link>				
@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Doutor Estranho (2016)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=HSzx-zryEgM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Doutor Estranho[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=HSzx-zryEgM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Doutor Estranho[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2f488bf0c5711f361e297f2c5ce6997b0ab175$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Doutor Estranho - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c978416628acd45a6cd078dd40c0cf20b7c359ac$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Doutor Estranho - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Doutor.Estranho.2016.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Doutor Estranho - HD DUB[/B][/COLOR]</link>				
@@ -82,7 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Doutor Estranho no Multiverso da Loucura (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=X23XCFgdh2M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Doutor Estranho no Multiverso da Loucura[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=X23XCFgdh2M$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Doutor Estranho no Multiverso da Loucura[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U5B24B744J6RRCF2CDESNDWN7JTEERC4$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Doutor Estranho no Multiverso da Loucura - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Doutor.Estranho/LS-Doutor.Estranho.no.Multiverso.da.Loucura.2022.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Doutor Estranho no Multiverso da Loucura - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8nWVioKCqQMrwfYMMwQX4EsEHVH.jpg</thumbnail>
@@ -98,7 +98,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR white]Eternos (2021)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PJza3ZaFeAU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Eternos[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=PJza3ZaFeAU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Eternos[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f33d2dda420bf29983a639c262837da11ce31f9e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Eternos - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JXQAYY3NPFRNX4UG5YZMLXCDN4U67DVD$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Eternos - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Eternos.2021.FHD.LGF.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Eternos - FHD LEG[/B][/COLOR]</link>
@@ -123,8 +123,12 @@ LETRA "H"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[B][COLOR white]Homem-Aranha Sem Volta Para Casa (2021)[/COLOR][/B]</title>
+<title>[B][COLOR white]Homem-Aranha Sem Volta Para Casa (2021) [/COLOR][/B]</title>
 <link>plugin://plugin.video.tubemusic/?video_id=CyiiEJRZjSU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Homem-Aranha Sem Volta Para Casa[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem-Aranha Sem Volta Para Casa - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Homem-Aranha Sem Volta Para Casa - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/LS-Spider-Man.No.Way.Home.2021.FHD.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Homem-Aranha Sem Volta Para Casa - FHD LEG[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/LS_Homem.Aranha.Sem.Volta.Para.Casa.2021.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Homem-Aranha Sem Volta Para Casa - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
@@ -132,7 +136,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói.</info>
 <genre>SUPER-HERÓIS</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "I"				
@@ -164,7 +168,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]O Fantasma (1996)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=_K3sWMT6Pi4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Fantasma[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=_K3sWMT6Pi4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Fantasma[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RGFG76NYSUNUOM4QMNATCTJ6UWHYMG5P$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fantasma - HD DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OILCRY3LSGEEDBIDQKDS54QR54DYA7KD$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Fantasma - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-O.Fantasma.1996.HD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Fantasma - HD DUAL+LEG[/B][/COLOR]</link>
@@ -178,7 +182,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Samaritano (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=erD37ZNWrCw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Samaritano[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=erD37ZNWrCw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Samaritano[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JTPK7YNBENTN767A4ZCG35ILXUMN7PPP$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Samaritano - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/8SPH-FM/LS-Samaritano.2022.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Samaritano - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg</thumbnail>
@@ -234,26 +238,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 								
 				
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+			
 				
-
