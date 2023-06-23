@@ -90,13 +90,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]HOMEM-ARANHA (Filmes e Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B6-SEL-ESP-H.ARANHA-ALL</externallink>
-<thumbnail>https://i.ibb.co/FKwj8X4/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
+<name>[COLOR white][B]Homem-Aranha (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/5-SEL-H.ARANHA-ALL</externallink>
+<thumbnail>https://i.ibb.co/0cMdYKy/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/bJ3Cwtf/ESP-H-ARANHA-FAN-ALL.png</fanart>
-<info>Assista a coleção Homem-Aranha. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]FILMES E SÉRIES[/B][/COLOR]
+<info>[COLOR white]Assista o especial: 
+[B]Homem-Aranha
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange][B]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Homem-Aranha.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -161,12 +164,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]O Incrível Hulk (1977-1981) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C4-SRS-O.Incrivel.Hulk-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/zAim6MnM8LUY88GwIDoF9TX8ReU.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>
-<info>Assista a série O Incrível Hulk. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 96 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1977 a 1981 [/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Incrível Hulk
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1977 a 1981
+[COLOR orange]SUPER-HERÓIS
+[COLOR orange]05 TEMPs - 82 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Dr. David Banner trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
