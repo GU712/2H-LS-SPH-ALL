@@ -24,11 +24,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Batman (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A9-SEL-BATMAN-ALL</externallink>
+<name>[COLOR white][B]Batman (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A9B-SEL-SRS-BATMAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/tmvVSd1/ESP-BATMAN-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/Mh8Gfr1/ESP-BATMAN-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção especial: 
+<info>[COLOR white]Conheça a seção de séries:  
 [B]Batman. 
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
@@ -93,11 +93,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Homem-Aranha (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/5-SEL-H.ARANHA-ALL</externallink>
+<name>[COLOR white][B]Homem-Aranha (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/A8B-SEL-SRS-H.ARANHA-ALL</externallink>
 <thumbnail>https://i.ibb.co/0cMdYKy/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/bJ3Cwtf/ESP-H-ARANHA-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista o especial: 
+<info>[COLOR white]Conheça a seção de séries:
 [B]Homem-Aranha
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange][B]SUPER-HERÓIS
@@ -224,6 +224,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]SUPER-HERÓIS
 [COLOR orange]01 TEMPs - 38 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Capitão Marvel é o alter ego de Billy Batson, um jovem que trabalha como repórter e foi escolhido para ser um campeão da bondade pelo mago Shazam.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Superman (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B1B-SEL-SRS-SUPERMAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/B2GbnGD/ESP-SUPERMAN-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/mNpSc9P/ESP-SUPERMAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Superman
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir as séries que temos sobre Superman.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
 [/COLOR]</info>
 </channel>
 </channels>
