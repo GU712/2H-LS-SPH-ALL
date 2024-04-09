@@ -30,12 +30,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B-LS-COL-SPH-ALL</externallink>
-<thumbnail>https://i.ibb.co/h16xpJd/SUPER-HEROIS-COL-ALL.png</thumbnail>
+<name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C-LS-SRS-SPH-ALL</externallink>
+<thumbnail>https://i.ibb.co/v4QsbWF/SUPER-HEROIS-SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/xf2n9Lf/SUPER-HEROIS-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]COLEÇÕES DE FILMES DE SUPER-HERÓIS
+[B]SÉRIES DE SUPER-HERÓIS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico com personagens dotados de poderes sobre-humanos, em combates contra o mal, ajudando os desprotegidos e livrando a sociedade de situações perigosas.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
@@ -48,12 +48,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C-LS-SRS-SPH-ALL</externallink>
-<thumbnail>https://i.ibb.co/v4QsbWF/SUPER-HEROIS-SRS-ALL.png</thumbnail>
+<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE SUPER-HERÓIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D-COL-ESP-SPH-ALL</externallink>
+<thumbnail>https://i.ibb.co/h16xpJd/SUPER-HEROIS-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/xf2n9Lf/SUPER-HEROIS-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE SUPER-HERÓIS
+[B]COLEÇÕES ESPECIAIS DE SUPER-HERÓIS
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico com personagens dotados de poderes sobre-humanos, em combates contra o mal, ajudando os desprotegidos e livrando a sociedade de situações perigosas.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
