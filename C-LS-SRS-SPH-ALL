@@ -111,15 +111,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Homem-Aranha (Séries)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/A8B-SEL-SRS-H.ARANHA-ALL</externallink>
-<thumbnail>https://i.ibb.co/2MH2PdV/ESP-H-ARANHA-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/bJ3Cwtf/ESP-H-ARANHA-FAN-ALL.png</fanart>
-<info>[COLOR white]Assista o especial: 
-[B]Homem-Aranha
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Homem-Aranha.
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Espetacular Homem-Aranha (1977-1979) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7B1-SRS-Amazing.Spider-Man.1977-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Espetacular Homem-Aranha 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Amazing Spider-Man foi uma série de TV de curta duração, no final dos anos 70, estrelada por Nicholas Hammond. A série foi um contemporâneo de O Incrível Hulk e Mulher Maravilha, ambos indo ao ar na CBS.
 [/COLOR]</info>
 </channel>
 </channels>
