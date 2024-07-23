@@ -12,6 +12,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men: Evolution (2000-2003) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D03C2-DSH-X-Men.Evolution.2000-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rC8p2xuywf4633s1gBinfENKbqF.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]X-Men: Evolution 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2000 a 2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓI
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 52 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Essa versão reimagina os personagens como jovens, em sua maioria adolescentes.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Wolverine e os X-Men (2009) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D03C1-DSH-Wolwerine.X.Men.2009-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg</thumbnail>
@@ -149,3 +167,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
