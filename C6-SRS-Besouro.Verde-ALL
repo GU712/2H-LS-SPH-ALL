@@ -1,55 +1,135 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-SERVER LS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]O Besouro Verde[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Besouro Verde (1966) - T01 - SD DUB[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 26 EPs - COMPLETA[/B][/COLOR]</link>
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Uma Arma De Morte[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Na Ponta Da Corda[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Programado Para Morrer[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Detetor De Crimes[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Homens Ra Sapeando[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Coma, Beba E Morra![/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Sonhadores Do Crime (Parte 1)[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Sonhadores Do Crime (Parte 2)[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Raio Da Morte[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Extorsao Mortal[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Casador e os Casadores[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Prazo Para Morrer[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Segredo De Sally Bell[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Pista Livre Para A Morte[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Nem Sempre Vence O Melhor[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]O Besouro e o Vagalume[/B][/COLOR]</link>link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Procure, Ache e Destrua[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E18.mkv$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]O Cadaver Do Ano (Parte 1)[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E19.mkv$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Cadaver Do Ano (Parte 2)[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E20.mkv$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Trunfo de Reserva[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E21.mkv$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]O Zumbir do Besouro[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E22.mkv$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Azares do Principe Encantado[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E23.mkv$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]O Estrangulador[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E24.mkv$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Besouro, Salva a Ti Mesmo[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E25.mkv$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Invasao Espacial (Parte 1)[/B][/COLOR]</link>
-link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Besouro.Verde/LS-T01E26.mkv$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Invasao Espacial (Parte 2)[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/ly6WNGKtJg0u7x2iZypujEfic9b.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
-<info>Embora combatam o crime, Besouro Verde e Kato são procurados pela polícia que, ironicamente, os julgam criminosos. </info>
-<genre>NOSTALGIA</genre>
+<title>[COLOR orange][B]TEMP 01 (1966) 26 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Uma Arma De Morte[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Na Ponta Da Corda[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Programado Para Morrer[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Detetor De Crimes[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Homens Ra Sapeando[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Coma, Beba E Morra![/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Sonhadores Do Crime (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Sonhadores Do Crime (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Raio Da Morte[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Extorsao Mortal[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Casador e os Casadores[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Prazo Para Morrer[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Segredo De Sally Bell[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Pista Livre Para A Morte[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Nem Sempre Vence O Melhor[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]O Besouro e o Vagalume[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Procure, Ache e Destrua[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]O Cadaver Do Ano (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]O Cadaver Do Ano (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E19.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Trunfo de Reserva[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E20.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]O Zumbir do Besouro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E21.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Azares do Principe Encantado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E22.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]O Estrangulador[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E23.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Besouro, Salva a Ti Mesmo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E24.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Invasao Espacial (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E25.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Invasao Espacial (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Besouro.Verde/LS-T01E26.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ZkFFqyBvGzNdEMcIslzTOxmsHi.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -70,8 +150,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -79,4 +158,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
