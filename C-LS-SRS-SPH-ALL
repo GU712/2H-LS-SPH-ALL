@@ -16,7 +16,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Poderosa Ísis (1975-1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C12-SRS-A.Poderosa.Isis-1975-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/nQZY51Up4PccqdbZmwI6eyxGTGC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/igf6KmOFEFu1ripWMyAGWxX9BM7.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Poderosa Ísis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Andrea Thomas é uma professora de ciências e arqueóloga amadora que encontra um amuleto que teria pertencido a uma rainha egípcia. De posse do amuleto, Andrea pronuncia as palavras "Poderosa Ísis" e se transforma em uma super-heroína com incríveis poderes.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
@@ -263,16 +281,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Shazam! - Capitão Marvel (1981) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Shazam! - Capitão Marvel (1981) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C9-SRS-Cap.Marvel.Shazan-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/rxeXd7ZoCisy42S7IcZ6sgyNrSB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3eJmOPPRm0HKc4EFCNY2ernRN8L.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Shazam! - Capitão Marvel
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANO - 1981
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]01 TEMPs - 38 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1981
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 38 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Capitão Marvel é o alter ego de Billy Batson, um jovem que trabalha como repórter e foi escolhido para ser um campeão da bondade pelo mago Shazam.
 [/COLOR]</info>
 </channel>
