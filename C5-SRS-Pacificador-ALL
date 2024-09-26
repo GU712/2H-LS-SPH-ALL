@@ -7,17 +7,7 @@
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Pacificador [/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=mlhXY6XUWBE</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/2vNF7t4ExESetYvo3WIED78q1YQ.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2gf2wnKC29wBD5rQTiM5D07NGgT.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>SUPER-HERÓIS</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+			
 <item>		
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pacificador (2022) - HD DUAL[/B][/COLOR]</title>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ooxd5famjwdrktibwkyojnjtxgqmpex</link>		
@@ -49,29 +39,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>		
 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Novo Turbilhao[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Piores Amigos Para Sempre[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Pacificador[/B][/COLOR]</link>		
-		
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
-		
-<thumbnail>https://www.themoviedb.org/t/p/original/lBw4rwfoLsHAs5pTISgIOFnRk2c.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/2gf2wnKC29wBD5rQTiM5D07NGgT.jpg</fanart>		
-<info>A série explorará as origens do Pacificador, um homem que acredita na paz a qualquer custo - não importa quantas pessoas ele tenha que matar para obtê-la.</info>		
-<genre>SUPER-HERÓIS</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
-item>		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Pacificador (2022) - T02 - FHD DUAL[/B][/COLOR]</title>		
-		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
-		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Um Novo Turbilhao[/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Piores Amigos Para Sempre[/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Pacificador/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Pacificador[/B][/COLOR]</link>		
 		
 <link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
 <link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
@@ -105,7 +75,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
