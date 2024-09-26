@@ -7,28 +7,18 @@
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-		
-<item>		
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Gavião Arqueiro[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=C-Wi9qu--0k</link>		
-<thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>		
-<info>Assista ao trailer</info>		
-<genre>SUPER-HERÓIS</genre> 		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-		
+				
 <item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Gavião Arqueiro (2021) - T01 - FHD DUAL[/B][/COLOR]</title>		
 		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 06 EPs[/B][/COLOR]</link>		
 		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Nunca Conhesa seus Herois [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Esconde-Esconde [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Ecos [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Parceiros, Certo? [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ronin [/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Entao Ja e Natal? [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Nunca Conhesa seus Herois [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Esconde-Esconde [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Ecos [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Parceiros, Certo? [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ronin [/B][/COLOR]</link>		
+<link>https://ls.lsnew.workers.dev/0:/SRS/8-SPH/Gaviao.Arqueiro/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Entao Ja e Natal? [/B][/COLOR]</link>		
 		
 <thumbnail>https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/xyC3K4pB7dxMpC4gd0aoQwAvUZ4.jpg</fanart>		
@@ -58,7 +48,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -67,4 +56,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-	
+		
+		
+		
+		
+
