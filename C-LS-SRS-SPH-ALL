@@ -110,6 +110,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Flash (2014-2023) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D04B1-SRS-Flash.2014-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/bJfdgVTpmpIo29B2ih8LceGFgc4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hOoHL3jJOYlMgZKnxelDf6YhiLM.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Flash
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 184 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um perito forense desperta de um coma com poderes especiais que serão postos à prova na luta contra forças que ameaçam a cidade.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -335,6 +353,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Flash - O Último Vingador (1990) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D04B2-SRS-The.Flash-1990-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vYRRFhgdiq7ZdrxiLm5Zudtr0Tl.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Flash - O Último Vingador
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 22 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Phanton (1943) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D02-COL-O.Fantasma-ALL</externallink>
 <thumbnail>https://i.imgur.com/vgiIJTd.jpg</thumbnail>
@@ -346,38 +382,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 15 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Professor Davidson planeja uma expedição para encontrar a Cidade Perdida de Zoloz. A localização da cidade está contida em sete peças de marfim, das quais três Davidson já possui. 
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Flash (2014) (2014-2021) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C1-SRS-The.Flash-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pXAX9JKt5qpxiaE5UajVNIlMFmk.jpg</fanart>
-<info>Assista aqui a série The Flash. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]08 TEMPS - 155 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2014 a 2021[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Flash - O Último Vingador (1990) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C10-SRS-The.Flash-1990-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vYRRFhgdiq7ZdrxiLm5Zudtr0Tl.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Flash - O Último Vingador
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1990
-[COLOR orange]SUPER-HERÓIS
-[COLOR orange]01 TEMPs - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Barry Allen é um cientista que trabalha na polícia e quando ganha super-poderes, precisa da ajuda de Cristina McGee para se adaptar aos seus novos dons.
 [/COLOR]</info>
 </channel>
 </channels>
