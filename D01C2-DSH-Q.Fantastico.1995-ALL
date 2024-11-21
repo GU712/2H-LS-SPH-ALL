@@ -1,161 +1,301 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Quarteto Fantástico[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/2zGWZevdwf5xLpp80Gf6fZifxOG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Quarteto Fantástico
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1994 a 1995
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 26 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Quarteto Fantástico: A Série Animada, é a terceira série de televisão animada 
+baseada na série de quadrinhos de mesmo nome da Marvel. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1994) 13 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E01[COLOR yellow] -> [COLOR white]As Origens do Quarteto Fantástico (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]As Origens do Quarteto Fantástico (Parte 1)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E01.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E02[COLOR yellow] -> [COLOR white]As Origens do Quarteto Fantástico (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Origens do Quarteto Fantástico (Parte 2)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E02.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E03[COLOR yellow] -> [COLOR white]Namor, O Príncipe das Águas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Namor, O Príncipe das Águas[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E03.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E04[COLOR yellow] -> [COLOR white]Incursão do Skrull[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Incursão do Skrull[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/Epis%C3%B3dio%2003%20-%20Incurs%C3%A3o%20do%20Skrull.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E05[COLOR yellow] -> [COLOR white]O Surfista Prateado e a Chegada de Galactus (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Surfista Prateado e a Chegada de Galactus (Parte 1)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E05.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E06[COLOR yellow] -> [COLOR white]O Surfista Prateado e a Chegada de Galactus (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Surfista Prateado e a Chegada de Galactus (Parte 2)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E06.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E07[COLOR yellow] -> [COLOR white]O Super Cérebro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Super Cérebro[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E07.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E08[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 1)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E08.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E09[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 2)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E09.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E10[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 3)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Máscara do Destino (Parte 3)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E10.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E11[COLOR yellow] -> [COLOR white]Surfista Prateado e a Volta de Galactus[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Surfista Prateado e a Volta de Galactus[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E11.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E12[COLOR yellow] -> [COLOR white]O Topeira[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]O Topeira[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E12.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T01E13[COLOR yellow] -> [COLOR white]Chave para a Zona Negativa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Chave para a Zona Negativa[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E13.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nDQY7xEnPykcPqknRu5oAZuLN0a.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (1995) 13 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E01[COLOR yellow] -> [COLOR white]E o Homem Cego os Guiará[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]E o Homem Cego os Guiará[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E14.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E02[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 1)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E15.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E03[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 2)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E16.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E04[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 3)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]A Saga dos Não Humanos (Parte 3)[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E17.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E05[COLOR yellow] -> [COLOR white]O Mundo Virtual[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Mundo Virtual[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E18.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E06[COLOR yellow] -> [COLOR white]A Batalha contra Ego[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Batalha contra Ego[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E19.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E07[COLOR yellow] -> [COLOR white]O Pantera Negra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Pantera Negra[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E20.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E08[COLOR yellow] -> [COLOR white]Chamada a Galactus[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Chamada a Galactus[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E21.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E09[COLOR yellow] -> [COLOR white]Pesadelo Verde[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Pesadelo Verde[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E22.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E10[COLOR yellow] -> [COLOR white]Uma Estrela Distante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Uma Estrela Distante[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E23.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E11[COLOR yellow] -> [COLOR white]Irremediavelmente Impossível[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Irremediavelmente Impossível[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E24.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E12[COLOR yellow] -> [COLOR white]O Sentinela Sinistro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]O Sentinela Sinistro[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E25.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS4-T02E13[COLOR yellow] -> [COLOR white]Dia do Juízo Final[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Dia do Juízo Final[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/4:/Desenhos/J-Q/_Quarteto%20Fant%C3%A1stico%20(Franquia)/[1994]%20Os%20Quatro%20Fant%C3%A1sticos/_WEB-DL%20DSNP/Fantastic.Four.S01E26.480p.DSNP.WEB-DL.AAC2.0.H.264-Yatogam1.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/xEou2in3qQxYQktrLBZD6oh6MLA.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/mYKYwihv940xGyDt2XckkBryNnP.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
