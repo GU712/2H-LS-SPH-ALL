@@ -31,31 +31,12 @@ Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Capitão América (Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEALVO></externallink>
-<thumbnail><CAPADOESPECIALSRS></thumbnail>
-<fanart>https://i.ibb.co/301PNNk/ESP-CAP-AME-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
-[B]Capitão América
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <channels>
 <channel>
 <name>[COLOR white][B]Capitão América (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D05C1-DSH-Cap.America.1966-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D05C-DSH-Cap.America-ALL</externallink>
 <thumbnail>https://i.ibb.co/PrP8YWY/ESP-CAP-AME-DSH.png</thumbnail>
 <fanart>https://i.ibb.co/301PNNk/ESP-CAP-AME-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de desenhos: 
