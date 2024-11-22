@@ -32,25 +32,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]X-Men (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink><LINKRAWPAGESRS></externallink>
-<thumbnail>https://i.ibb.co/f06dkzD/COL-X-MEN-ICON-SRS-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ngNcc7J/ESP-X-MEN-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
-[B]X-Men
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]X-Men (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D03C-DSH-X-Men-ALL</externallink>
 <thumbnail>https://i.ibb.co/SNZKZWW/ESP-X-MEN-DSH.png</thumbnail>
