@@ -1,15 +1,16 @@
 <item>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men: O Filme (2000) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]X-Men: O Filme (2000) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/X-Men/FLM/LS-2000.X-Men.O.Filme.FHD.DUAL.LFX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A9fpAjZLqsODM96aI6kx147LPM9.jpg</fanart>
@@ -18,13 +19,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2000
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. 
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu 
+com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men 2 (2003) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]X-Men 2 (2003) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/X-Men/FLM/LS-2003.X-Men.2.FHD.DUAL.LFX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bst4alFUXCxISwdRUKSMhhkrX1M.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eKsQaowtf30S7DDm02clQKF0KYy.jpg</fanart>
@@ -33,13 +38,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2003
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. 
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine 
+e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]X-Men: O Confronto Final (2006) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]X-Men: O Confronto Final (2006) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/X-Men/FLM/LS-2006.O.Confronto.Final.FHD.DUAL.LFX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/n2W6mzxEC6JqzvyYeZzysJUiTR9.jpg</fanart>
@@ -48,39 +57,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2006
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes 
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher 
+entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-
-	
