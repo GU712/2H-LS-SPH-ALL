@@ -1,19 +1,45 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7B-SRS-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Espetacular Homem-Aranha (1977-1979) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7B1-SRS-Amazing.Spider-Man.1977-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]Filme[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/JcSxyFk/ESP-H-ARANHA-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/9hpD23k/ESP-H-ARANHA-FAN.png</fanart>	
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>
+<title>[COLOR white][B]Homem-Aranha (1977) - SD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/LS-T01E00.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Homem-Aranha
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Episódio Piloto da série em longa duração apresentava o personagem e preparava o 
+caminha para a série.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>	
+<title>[COLOR orange][B]O Espetacular Homem-Aranha [/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -22,131 +48,148 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1977 a 1979
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 13 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Amazing Spider-Man foi uma série de TV de curta duração, no final dos anos 70, estrelada por Nicholas Hammond. A série foi um contemporâneo de O Incrível Hulk e Mulher Maravilha, ambos indo ao ar na CBS.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]The Amazing Spider-Man foi uma série de TV de curta duração, no final dos anos 70, 
+estrelada por Nicholas Hammond. A série foi um contemporâneo de O Incrível Hulk e Mulher Maravilha, ambos indo ao ar na CBS.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1977) 05 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7B-SRS-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</channel>
-</channels>
+<item><title>[COLOR orange][B]T01E01-2[COLOR yellow] -> [COLOR white]Homen-Aranha Volta a Atacar (Partes 1 e 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T01/LS-T01E01-02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/DOBLE/01-02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Maldição de Rava[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Noite dos Clones[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Escolta ao Perigo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (1979) 08 EPs - HD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/jGB2UfF1UXMbyhwZKc5yblGLCrA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7B-SRS-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Aprisionados no Arranha Céu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO HOMEM-ARANHA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7-COL-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Uma Questão Importante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SUPER-HERÓIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/1-LS-SEL-SPH-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Perigo nas Alturas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Fantasma do Kirkwood[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Foto Reveladora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Trama de Lobos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T02E07-08[COLOR yellow] -> [COLOR white]A Fúria do Dragão (Partes 1 e 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Homem.Aranha/SRS/1977.Amazing.Spider-Man/T02/LS-T02E07-08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/DOBLE/07-08.png</thumbnail><fanart>https://www.themoviedb.org/t/p/original/49VI6PxMo3swVqq0VLELEQ2fpks.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
