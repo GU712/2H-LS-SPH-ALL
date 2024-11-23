@@ -68,16 +68,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem-Aranha (Filmes - Série - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D7-COL-Homem-Aranha-ALL</externallink>
-<thumbnail>https://i.ibb.co/Jq3cRFS/COL-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/dr1YNLB/COL-H-ARANHA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Homem-Aranha (Filmes - Série - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D07-SEL-Homem-Aranha-ALL</externallink>
+<thumbnail>https://i.ibb.co/sm5Hpmp/ESP-H-ARANHA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/9hpD23k/ESP-H-ARANHA-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Homem-Aranha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
