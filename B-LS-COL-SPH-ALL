@@ -276,16 +276,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Superman (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D6A-FLM-Superman-ALL</externallink>
-<thumbnail>https://i.ibb.co/WkCnrG9/COL-SUPERMAN-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8d0cp5w/COL-SUPERMAN-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Superman (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D06A-FLM-Superman-ALL</externallink>
+<thumbnail>https://i.ibb.co/g36JcQs/ESP-SUPERMAN-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/XDmgy4d/ESP-SUPERMAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Superman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
