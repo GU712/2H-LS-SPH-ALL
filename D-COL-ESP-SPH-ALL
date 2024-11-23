@@ -124,16 +124,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mulher Maravilha (Filmes - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D9-COL-Mulher.Maravilha-ALL</externallink>
-<thumbnail>https://i.ibb.co/TR1zvtw/COL-M-MARAVA-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/qpCk2vn/COL-M-MARAVA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Mulher Maravilha (Filmes - Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D09-SEL-Mulher.Maravilha-ALL</externallink>
+<thumbnail>https://i.ibb.co/MkNVN5S/SEL-M-MARAVA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/qncc3Gz/SEL-M-MARAVA-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Mulher Maravilha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
