@@ -43,16 +43,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Batman (12 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D8A-FLM-Batman-ALL</externallink>
-<thumbnail>https://i.ibb.co/Hxswhr8/COL-BATMAN-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/FHR35x7/COL-BATMAN-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Batman (12 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D08A-FLM-Batman-ALL</externallink>
+<thumbnail>https://i.ibb.co/XWxwYDL/ESP-BATMAN-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/Ksy7SFf/ESP-BATMAN-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Batman
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
