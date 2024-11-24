@@ -15,8 +15,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Mulher Maravilha (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D09A-FLM-Mulher.Maravilha-ALL</externallink>
-<thumbnail>https://i.ibb.co/yF6WdKD/SEL-M-MARAVA-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/qncc3Gz/SEL-M-MARAVA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/LNYN5PW/SEL-M-MARAVA-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/XzRQT0d/SEL-M-MARAVA-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Mulher Maravilha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -34,9 +34,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Mulher Maravilha (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D09B-SRS-Mulher.Maravilha-ALL</externallink>
-<thumbnail>https://i.ibb.co/fxnv6WS/SEL-M-MARAVA-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/qncc3Gz/SEL-M-MARAVA-FAN.png</fanart>
+<thumbnail>https://i.ibb.co/5FZJnh7/SEL-M-MARAVA-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/XzRQT0d/SEL-M-MARAVA-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
+[B]Mulher Maravilha
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Mulher Maravilha (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink><LINKRAWPAGEDSH></externallink>
+<thumbnail>https://i.ibb.co/s2zcjLX/SEL-M-MARAVA-DSH.png</thumbnail>
+<fanart>https://i.ibb.co/XzRQT0d/SEL-M-MARAVA-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de desenhos: 
 [B]Mulher Maravilha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
