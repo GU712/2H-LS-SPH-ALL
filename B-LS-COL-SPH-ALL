@@ -143,16 +143,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Homem de Ferro (07 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D1A-FLM-Iron.Man-ALL</externallink>
-<thumbnail>https://i.ibb.co/r4XjYYP/COL-H-FERRO-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/SQCj1vR/COL-H-FERRO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Homem de Ferro (07 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D11A-FLM-Iron.Man-ALL</externallink>
+<thumbnail>https://i.ibb.co/Lr2rw5q/ESP-H-FERRO-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/9HZWXKR/ESP-H-FERRO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Homem de Ferro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
