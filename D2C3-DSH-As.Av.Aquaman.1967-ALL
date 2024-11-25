@@ -1,120 +1,218 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Aquaman[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Aquaman
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 36 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aquaman é uma série animada da Filmation que estreou na CBS em 9 de setembro de 1967 
+e terminou em junho de 1970. É uma versão de 30 minutos cada episódio.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1967) 18 EPs - FHD DUAL[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Episódio 01[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episódio 01[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Episódio 02[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episódio 02[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Episódio 03[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episódio 03[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Episódio 04[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episódio 04[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Episódio 05[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episódio 05[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Episódio 06[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Episódio 06[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Episódio 07[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Episódio 07[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Episódio 08[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Episódio 08[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Episódio 09[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Episódio 09[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Episódio 10[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Episódio 10[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Episódio 11[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Episódio 11[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Episódio 12[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Episódio 12[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Episódio 13[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Episódio 13[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Episódio 14[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Episódio 14[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Episódio 15[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Episódio 15[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Episódio 16[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Episódio 16[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Episódio 17[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Episódio 17[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Episódio 18[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/As.Av.Aquaman.1967/LS-T01E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wRABIwo5jDY7H6TBBxJ5mZHDt5X.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Episódio 18[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/8SPH-CL/Aquaman/DSH/1967.As.Av.Aquaman/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
