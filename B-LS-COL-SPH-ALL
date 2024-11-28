@@ -197,16 +197,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Liga da Justiça (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B4-COL-Liga.da.Justisa-MTX</externallink>
-<thumbnail>https://i.ibb.co/bzdKb9s/COL-JUSTLIGA-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/17LG4zp/COL-JUSTLIGA-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Liga da Justiça (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B002-COL-Liga.da.Justisa-ALL</externallink>
+<thumbnail>https://i.ibb.co/642cPwv/COL-JUSTLIGA-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/T095CVz/COL-JUSTLIGA-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Liga da Justiça
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -331,16 +332,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Venom (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B3-COL-Venom-ALL</externallink>
-<thumbnail>https://i.ibb.co/P5NdbtR/COL-VENOM-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/Lh8WXy7/COL-VENOM-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Venom (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/B003-COL-Venom-ALL</externallink>
+<thumbnail>https://i.ibb.co/RQJPNtW/COL-VENOM-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/rQTwq6R/COL-VENOM-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Venom
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
