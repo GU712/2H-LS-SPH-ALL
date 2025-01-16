@@ -340,14 +340,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Boys (2019-2020) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C2-SRS-The.Boys-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>
-<info>Assista aqui a série The Boys. 
-[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 24 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2019 a 2022[/B][/COLOR]</info>
+<name>[COLOR white][B]The Boys (2019-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/C02-SRS-The.Boys-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/dzOxNbbz1liFzHU1IPvdgUR647b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Boys
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 32 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do 
+planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
