@@ -15,8 +15,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Watchmen (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D15A-FLM-Watchmen-ALL</externallink>
-<thumbnail><CAPADACOLFLM></thumbnail>
-<fanart><FUNDODACOL></fanart>
+<thumbnail>https://i.ibb.co/SKCWSZB/ESP-WATCHMEN-FLM.png </thumbnail>
+<fanart>https://i.ibb.co/qMpX56d/ESP-WATCHMEN-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Watchmen
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -34,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Watchmen (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/D15B-SRS-Watchmen-ALL</externallink>
-<thumbnail><CAPADACOLSRS></thumbnail>
-<fanart><FUNDODACOL></fanart>
+<thumbnail>https://i.ibb.co/4JB7xmj/ESP-WATCHMEN-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/qMpX56d/ESP-WATCHMEN-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de séries: 
 [B]Watchmen
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
@@ -190,4 +190,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
