@@ -21,17 +21,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Poderosa Ísis (1975-1976) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C12-SRS-A.Poderosa.Isis-1975-ALL</externallink>
+<name>[COLOR white][B]A Poderosa Ísis (1975-1976) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/C001-SRS-A.Poderosa.Isis-1975-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/nQZY51Up4PccqdbZmwI6eyxGTGC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/igf6KmOFEFu1ripWMyAGWxX9BM7.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]A Poderosa Ísis
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1976
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 22 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Andrea Thomas é uma professora de ciências e arqueóloga amadora que encontra um amuleto que teria pertencido a uma rainha egípcia. De posse do amuleto, Andrea pronuncia as palavras "Poderosa Ísis" e se transforma em uma super-heroína com incríveis poderes.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Andrea Thomas é uma professora e arqueóloga amadora. De posse do um amuleto, 
+Andrea pronuncia as palavras "Poderosa Ísis" e se transforma em uma super-heroína com incríveis poderes.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -65,9 +69,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cavaleiro da Lua (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C8-SRS-Cavaleiro.Lua-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/AhTmmAQ48FlSlUpMv0EmPWiYsmO.jpg</thumbnail>
+<name>[COLOR white][B]Cavaleiro da Lua (2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/refs/heads/main/C008-SRS-Cavaleiro.Lua.2022-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vfWdZYGR5505zrCdgTHteFyARu3.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Cavaleiro da Lua
@@ -75,7 +79,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Steven descobre que tem transtorno dissociativo de identidade e divide o corpo 
+com o mercenário Marc Spector o Cavaleiro da Lua.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
